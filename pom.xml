@@ -37,6 +37,11 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
         <!-- devtools is used for hot reload
         <dependency>
             <groupId>org.springframework.boot</groupId>
